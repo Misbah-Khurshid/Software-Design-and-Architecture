@@ -4,8 +4,8 @@ From Real World Concept to Software Object
 Course: Software Design & Architecture (SEC-532)
 University: The University of Azad Jammu and Kashmir, Muzaffarabad
 
-**Student:** Misbah Khurshid
-**Roll No:** 2025-SE-10
+**Student:** Misbah Khurshid|
+**Roll No:** 2025-SE-10|
 **Semester:** 3rd | **Session:** 2025-29
 
 ---
