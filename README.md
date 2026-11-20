@@ -1,7 +1,7 @@
 # Class Activity: Food Delivery System and Bank Management System
 
-From Real World Concept to Software Object
-Course: Software Design & Architecture (SEC-532)
+From Real World Concept to Software Object 
+Course: Software Design & Architecture (SEC-532) 
 University: The University of Azad Jammu and Kashmir, Muzaffarabad
 
 **Student:** Misbah Khurshid|
